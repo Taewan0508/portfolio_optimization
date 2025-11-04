@@ -13,7 +13,7 @@ Key features:
 
 2. Portfolio Optimization
 - Simulated and analyzed a 3-stock portfolio (TSLA, NVDA, RR) to find the best allocation between return and risk.
-Key concepts covered
+Key concepts covered:
   - Random portfolio generation.
   - Annualized returns and volatility.
   - Efficient Frontier and Sharpe Ratio
