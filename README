@@ -5,6 +5,8 @@ Project Overview
 1. Stock Price Analysis
   - Nvidia (NVDA)
   - Tesla (TSLA)
+  - Ondas (ONDS)
+  - 
   - Richtech Robotics (RR)
 Key features: 
   - Downloaded data using yfinance.
@@ -12,7 +14,7 @@ Key features:
   - Visualized stock trends and volatility using matplotlib.
 
 2. Portfolio Optimization
-- Simulated and analyzed a 3-stock portfolio (TSLA, NVDA, RR) to find the best allocation between return and risk.
+- Simulated and analyzed a 7-stock portfolio to find the best allocation between return and risk.
 Key concepts covered:
   - Random portfolio generation.
   - Annualized returns and volatility.
