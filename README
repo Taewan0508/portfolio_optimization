@@ -31,6 +31,20 @@ matplotlib: Data visualization
 Google Colab: Development environment 
 Github: Version control and project showcase
 
+## Results
+Optimal portfolio weight:
+NVDA : 0.01
+TSLA : 0.38
+APLD : 0.02
+RR : 0.07
+NVTS : 0.32
+ONDS : 0.04
+PPTA : 0.15
+Annual Return : 113%
+Volatility : 40%
+Sharpe Ratio : 2.77
+
+
 Contact
 Created by Taewan Park
 parktaewan2005@gmail.com
