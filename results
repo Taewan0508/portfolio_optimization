@@ -1,0 +1,8 @@
+
+plt.figure(figsize=(12, 6))
+plt.scatter(vol_arr, ret_arr, c=sharpe_arr, cmap='viridis')
+plt.colorbar(label='Sharpe Ratio')
+plt.xlabel('Volatility (Risk)')
+plt.ylabel('Return')
+plt.title('Portfolio Optimization')
+plt.show()
