@@ -1,4 +1,4 @@
-Project Overview
+### Project Overview
 - This repository contains beginner quantitative finance projects built with Python, pandas, Numpy, all developed and test in Google Colab.
 - Each notebook focuses on a core concept of financial data analysis, from single-stock trends to portfolio optimization.
 
